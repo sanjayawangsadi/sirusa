@@ -1,0 +1,4 @@
+Tidak perlu setting base url dikarenakan base url sudah dinamis
+cukup setting database pada application/config/database.
+
+Database pada sirusa/sirusadb.sql
