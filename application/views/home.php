@@ -4,6 +4,7 @@
 <head>
     <?php $this->load->view('includes/head.php') ?>
     <link href="https://cdn.datatables.net/1.10.23/css/dataTables.bootstrap4.min.css" rel="stylesheet">
+    <title>Home</title>
 </head>
 
 <body>

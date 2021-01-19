@@ -3,6 +3,7 @@
 
 <head>
     <?php $this->load->view('includes/head.php') ?>
+    <title>Peta Sebaran</title>
 </head>
 
 <body>

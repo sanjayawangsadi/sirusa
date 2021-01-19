@@ -3,6 +3,7 @@
 
 <head>
     <?php $this->load->view('includes/head.php') ?>
+    <title><?= $data->nama ?></title>
 </head>
 
 <body>
